@@ -9,7 +9,7 @@ This project analyzes key socioeconomic and housing data from Minneapolis to exp
 - Investigate how socioeconomic indicators (e.g., income, education, occupation) affect housing affordability.
 - Evaluate rent and gross rent metrics to assess housing cost burden and stability.
 - Provide actionable insights for policymakers, residents, and businesses interested in housing trends in Minneapolis.
-
+  
 ## Dataset
 - Data Source: [Mention source, e.g., Census Bureau, City of Minneapolis Open Data Portal]
 - Data Files: [Briefly describe your dataset files, e.g., "Includes rent costs, demographic breakdown, and geographic data."]
